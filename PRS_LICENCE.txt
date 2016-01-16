@@ -1,0 +1,12 @@
+PRS_LICENCE.txt
+
+
+ARIS Software
+
+Copyright (c) 2014, Provectus Robotics Solutions Inc.
+All rights reserved.
+
+
+www.provectus-robotics.com
+
+
