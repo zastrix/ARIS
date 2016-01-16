@@ -1,5 +1,5 @@
 # ARIS
-ARIS control software for the ARGO J5. Written by Provectus Robotics
+ARIS control software for the ARGO J5. Written by Provectus Robotics.
 ```
 Package Name:    j5RCU-E_v1.4.1
 Part Number:     j5RCU-E
