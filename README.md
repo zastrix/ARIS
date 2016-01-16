@@ -1,5 +1,5 @@
 # ARIS
-ARIS control software for the ARGO J5. Written by Provectus Robotics.
+ARIS control software for the ARGO J5. Written by Provectus Robotics, this package should be installed in the /opt/prs folder.
 ```
 Package Name:    j5RCU-E_v1.4.1
 Part Number:     j5RCU-E
@@ -9,7 +9,7 @@ ARIS SW Version: v1.4.1.0-dev
 Creation Date:   2015-12-09 10:57:32
 ```
 
-#### This software package contains software for basic close range control of the J5 chassis, as well a ROS node to interface with external systems. the package should be installed in /opt/prs/ .
+#### This software package contains software for basic close range control of the J5 chassis, as well a ROS node to interface with external systems.
 
 Contents:
 * bin/CANController
